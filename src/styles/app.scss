@@ -35,8 +35,7 @@ span {
 }
 
 @import './player';
-@import './song';
-@import './library';
 @import './nav';
-
+@import './library.scss';
+@import './song.scss'
 
