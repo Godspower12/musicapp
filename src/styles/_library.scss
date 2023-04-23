@@ -1,3 +1,5 @@
+
+
 .library {
     position: fixed;
     top: 0;
@@ -36,10 +38,12 @@ h2 {
     h4{
         font-size: 0.7rem;
     }
-}* {
-    scrollbar-width: thin;
-    scrollbar-color: rgba(155, 155, 155, 0.5) transparent;
 }
+
+// * {
+//     scrollbar-width: thin;
+//     scrollbar-color: rgba(155, 155, 155, 0.5) transparent;
+// }
 
 .selected {
     background: violet;
